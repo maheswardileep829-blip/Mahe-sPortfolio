@@ -72,21 +72,4 @@ Enter your income and expenses to get savings analysis.
 ```bash
 python linear_calc.py
 ```
-Enter slope (m) and y-intercept (b) to get calculations and graph.
-
----
-
-## 📈 Progress Tracker
-
-**Week 1 (Feb 2026):**
-- ✅ Python fundamentals learned
-- ✅ Built budget calculator
-- ✅ Built linear equation solver
-- ✅ GitHub portfolio created
-- 🔄 Building todo list next
-
-**This Month Goals:**
-- [ ] Master Python data structures
-- [ ] Build 4 more projects
-- [ ] Start finance book #1
-- [ ] Join Key Club
+Enter slope (m) and y-intercept (b) to get calculations and graph
