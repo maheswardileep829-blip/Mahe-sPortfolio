@@ -26,7 +26,7 @@ Enter your monthly income and expenses, and the program will:
 - Give personalized financial advice
 
 ## Tech Stack
-- Python 3.x
+- Python 3.14.2
 
 ---
 
