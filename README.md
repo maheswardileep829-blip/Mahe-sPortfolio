@@ -51,7 +51,3 @@ Building in public and documenting my journey from beginner to builder.
 
 **Currently:** Week 1 of my coding journey (Feb 2026)  
 **Next milestone:** First stock analysis dashboard
-
----
-
-*"From 1:45 hours of screen time to building tools that matter."*
